@@ -1,0 +1,11 @@
+Source: sugar-default-activities
+Section: games
+Priority: optional
+Maintainer: Plan Ceibal <ceibal@plan.ceibal.edu.uy>
+Build-Depends: debhelper (>= 9), python-all (>= 2.6.6-3~), wget, unzip
+Standards-Version: 3.9.5
+
+Package: sugar-default-activities
+Architecture: all
+Depends: sugar-environment, libfltk1.1, liblo7
+Description: Actividades Sugar instaladas por defecto.

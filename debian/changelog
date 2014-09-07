@@ -1,0 +1,88 @@
+sugar-default-activities (0.2) UNRELEASED; urgency=medium
+
+  * Updated Etoys to 113.2
+  * Updated fototoon to 16
+  * Updated pippy to 52.1
+  * Updated Scratch to 24.1
+  * Updated Tuxpaint to 7
+  * Updated LectorCeibal to gtk23-1.9
+  * Updated TamTamMini to 67.0.1
+  * Removed Labyrinth 14.7
+  * Updated download URL to ftp://descargas.ceibal.edu.uy/espacio_tecnico/actividades/CM/
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Sun, 07 Sep 2014 15:41:43 -0300
+
+sugar-default-activities (0.1-11) precise; urgency=low
+
+  * Updated Browse to 156
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Wed, 13 Nov 2013 02:06:50 +0100
+
+sugar-default-activities (0.1-10) precise; urgency=low
+
+  * Translations copied to /usr/share/locale
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Thu, 10 Oct 2013 04:39:50 +0200
+
+sugar-default-activities (0.1-9) precise; urgency=low
+
+  * Updated Browse
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Thu, 10 Oct 2013 03:08:06 +0200
+
+sugar-default-activities (0.1-8) precise; urgency=low
+
+  * Removed English for fun
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Tue, 08 Oct 2013 06:34:07 +0200
+
+sugar-default-activities (0.1-7) precise; urgency=low
+
+  * Added tuxpaing version listed in #3516
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Mon, 07 Oct 2013 22:16:00 +0200
+
+sugar-default-activities (0.1-6) precise; urgency=low
+
+  * Cartoon builder updated to 17.1
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Mon, 07 Oct 2013 22:13:40 +0200
+
+sugar-default-activities (0.1-5) precise; urgency=low
+
+  * Updated clock to 15
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Mon, 07 Oct 2013 21:47:21 +0200
+
+sugar-default-activities (0.1-4) precise; urgency=low
+
+  * Updated image_viewer to v59
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Mon, 07 Oct 2013 20:57:00 +0200
+
+sugar-default-activities (0.1-3) precise; urgency=low
+
+  * Updated Browse to 154
+  * Added etoys
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Fri, 04 Oct 2013 08:20:59 +0200
+
+sugar-default-activities (0.1-2) precise; urgency=low
+
+  * Custom gtk2 Write version
+  * Custom gtk2 Calculate version
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Thu, 03 Oct 2013 08:14:06 +0200
+
+sugar-default-activities (0.1-1) precise; urgency=low
+
+  * Updated calculate to 42.1
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Wed, 02 Oct 2013 08:03:21 +0200
+
+sugar-default-activities (0.1) precise; urgency=low
+
+  * Initial release
+
+ -- Plan Ceibal <ceibal@plan.ceibal.edu.uy>  Thu, 19 Sep 2013 00:00:00 +0000
+
